@@ -1,4 +1,4 @@
-package Feature.Methods.Level1;
+package CoreProgramming.Methods.Level1;
 import java.util.Scanner;
 public class Handshakes {
     public int handshakes(int stu){

@@ -1,4 +1,4 @@
-package Feature.Methods.Level2;
+package CoreProgramming.Methods.Level2;
 import java.util.Scanner;
 public class CheckNum {
     public static boolean isPostive(int num){

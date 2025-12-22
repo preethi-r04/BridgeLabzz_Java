@@ -1,4 +1,4 @@
-package Feature.Methods.Level3;
+package CoreProgramming.Methods.Level3;
 
 public class NumberChecker4 {
 
