@@ -1,3 +1,4 @@
+package CoreProgramming.Methods.Level3;
 public class EmployeeBonus {
 
     static double[][] generateEmployeeData(int n) {

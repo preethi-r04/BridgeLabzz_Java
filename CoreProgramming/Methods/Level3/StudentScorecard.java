@@ -1,3 +1,4 @@
+package CoreProgramming.Methods.Level3;
 import java.util.Scanner;
 
 public class StudentScorecard {
